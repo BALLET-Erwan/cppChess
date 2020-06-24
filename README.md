@@ -1,2 +1,2 @@
-# cppChest
-Chest project in C++(Qt)
+# cppChess
+Chess project in C++(Qt)
